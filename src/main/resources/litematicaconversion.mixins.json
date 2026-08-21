@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.leitingsd.litematicaconversion.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "GuiMainMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

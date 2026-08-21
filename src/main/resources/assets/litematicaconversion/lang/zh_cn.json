@@ -1,0 +1,19 @@
+{
+  "litematica-conversion.gui.button.convert_schematic": "转换投影",
+  "litematica-conversion.gui.title.schematic_conversion": "转换投影",
+  "litematica-conversion.gui.button.start_conversion": "开始转换",
+  "litematica-conversion.gui.button.converting": "转换中...",
+  "litematica-conversion.gui.button.add_to_conversion_list": "加入待转换列表",
+  "litematica-conversion.gui.button.clear_list": "清空列表",
+  "litematica-conversion.gui.label.pending_count": "待转换: %d",
+  "litematica-conversion.gui.label.pending_list_header": "待转换列表 (%d)",
+  "litematica-conversion.gui.message.no_selection": "请先选择一个 .litematic 文件",
+  "litematica-conversion.gui.message.not_litematic": "只能转换 .litematic 文件",
+  "litematica-conversion.gui.message.cant_read": "无法读取文件: %s",
+  "litematica-conversion.gui.message.added": "已加入待转换列表: %s",
+  "litematica-conversion.gui.message.duplicate": "该文件已在待转换列表中: %s",
+  "litematica-conversion.gui.message.list_empty": "待转换列表为空",
+  "litematica-conversion.gui.message.list_cleared": "已清空待转换列表",
+  "litematica-conversion.gui.message.conversion_done": "转换完成: %d 成功, %d 失败, %d 跳过",
+  "litematica-conversion.gui.result.palette_warning": "注意：转换不包含方块状态 BlockStatePalette 映射，1.20.5+ 新增方块在 1.20.4 以下版本中会显示为未知方块"
+}

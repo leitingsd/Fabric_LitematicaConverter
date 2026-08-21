@@ -1,0 +1,19 @@
+{
+  "litematica-conversion.gui.button.convert_schematic": "Convert Schematics",
+  "litematica-conversion.gui.title.schematic_conversion": "Schematic Conversion",
+  "litematica-conversion.gui.button.start_conversion": "Start Conversion",
+  "litematica-conversion.gui.button.converting": "Converting...",
+  "litematica-conversion.gui.button.add_to_conversion_list": "Add to Conversion List",
+  "litematica-conversion.gui.button.clear_list": "Clear List",
+  "litematica-conversion.gui.label.pending_count": "Pending: %d",
+  "litematica-conversion.gui.label.pending_list_header": "Pending (%d)",
+  "litematica-conversion.gui.message.no_selection": "Select a .litematic file first",
+  "litematica-conversion.gui.message.not_litematic": "Only .litematic files can be converted",
+  "litematica-conversion.gui.message.cant_read": "Cannot read file: %s",
+  "litematica-conversion.gui.message.added": "Added to conversion list: %s",
+  "litematica-conversion.gui.message.duplicate": "Already in the conversion list: %s",
+  "litematica-conversion.gui.message.list_empty": "The conversion list is empty",
+  "litematica-conversion.gui.message.list_cleared": "Conversion list cleared",
+  "litematica-conversion.gui.message.conversion_done": "Conversion done: %d success, %d failed, %d skipped",
+  "litematica-conversion.gui.result.palette_warning": "Note: block state palette mapping is not converted; blocks added in 1.20.5 may appear as unknown blocks in 1.20.4"
+}
