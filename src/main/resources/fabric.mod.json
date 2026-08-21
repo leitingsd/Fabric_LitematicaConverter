@@ -3,7 +3,7 @@
   "id": "litematicaconversion",
   "version": "1.0.1",
   "name": "Litematica Conversion",
-  "description": "A mod that can batch-convert Litematica schematics from version 1.20.5+ (V7) to version 1.20.4 and earlier (V6).\n\nUpstream standalone program: LitematicaConverter [https://github.com/leitingsd/LitematicaConverter]",
+  "description": "A mod that can batch-convert Litematica schematics from version 1.20.5+ (V7) to version 1.20.4 and earlier (V6).",
   "authors": [
     "Leitingsd"
   ],
